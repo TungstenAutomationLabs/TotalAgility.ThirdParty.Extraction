@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalAgility.ThirdParty.Extraction", "TotalAgility.ThirdParty.Extraction.csproj", "{B9EE9180-3133-43A9-99A9-68419350078E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalAgility.ThirdParty.ExtractionTests", "..\TotalAgility.ThirdParty.ExtractionTests\TotalAgility.ThirdParty.ExtractionTests.csproj", "{9AD91B24-7496-45AE-AACB-4D1B7BCD3556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9EE9180-3133-43A9-99A9-68419350078E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9EE9180-3133-43A9-99A9-68419350078E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9EE9180-3133-43A9-99A9-68419350078E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9EE9180-3133-43A9-99A9-68419350078E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD91B24-7496-45AE-AACB-4D1B7BCD3556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD91B24-7496-45AE-AACB-4D1B7BCD3556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD91B24-7496-45AE-AACB-4D1B7BCD3556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD91B24-7496-45AE-AACB-4D1B7BCD3556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC397FC0-EC71-4493-9311-2B18E9D611AF}
+	EndGlobalSection
+EndGlobal
