@@ -61,6 +61,7 @@
     <Compile Include="TAGoogleDiagnostic.cs" />
     <Compile Include="TAGoogleExtractor.cs" />
     <Compile Include="TAGoogleToAzureNormalizer.cs" />
+    <Compile Include="TAPulseExtractor.cs" />
     <Compile Include="TAThirdPartyConnector.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
